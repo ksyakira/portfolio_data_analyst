@@ -61,4 +61,13 @@ Pembangunan alur *Extract, Transform, Load* (ETL) dari data retail e-commerce hi
 | **Graded Challenge 5 — Practical Statistics & Market Feasibility (Seblak Dropship)** | Studi kelayakan bisnis dropship menggunakan kerangka SMART, statistik deskriptif (skewness, kurtosis), estimasi pendapatan dengan *95% Confidence Interval*, uji hipotesis antarwilayah, dan uji korelasi harga vs rating. | Python (Pandas, SciPy), Hypothesis Testing, Correlation Analysis |
 | **Graded Challenge 4 — Portugal Real Estate Market Analysis** | Analisis faktor penentu harga properti dan peluang peningkatan penjualan sebesar 10% dalam 6 bulan melalui penjabaran *key questions*, *data cleaning*, dan penyusunan *actionable recommendations*. | Google Sheets (Pivot Table, Formulas), Data Cleaning, Business Reporting |
 | **Graded Challenge 3 — E-Commerce Web Scraping & Data Preparation** | Ekstraksi data produk (harga, lokasi toko, jumlah terjual, rating) dari 10+ halaman pencarian Tokopedia dengan penanganan struktur HTML dinamis dan *missing values*. | Python (BeautifulSoup, Pandas), Regex / String Cleaning |
-| **Graded Challenge 2 — Interactive Retail Shopping
+| **Graded Challenge 2 — Interactive Retail Shopping Cart CLI** | Pengembangan aplikasi keranjang belanja berbasis terminal dengan fitur tambah, hapus, tampilan daftar item, dan kalkulasi total belanja secara modular. | Python (Functions, Dictionaries/Lists, Loops, Conditionals) |
+| **Graded Challenge 1 — Streaming Movies Relational Database** | Normalisasi dataset film (hingga 3NF dengan `UNNEST` array genre & negara produksi), perancangan ERD, serta implementasi *staging* hingga tabel produksi. | PostgreSQL (DDL, DML, DQL), Relational Normalization, ERD |
+
+---
+
+## 📫 Contact & Connect
+
+- **GitHub:** [@ksyakira](https://github.com/ksyakira)
+- **LinkedIn:** *(https://www.linkedin.com/in/khoizuronsyakira/)*
+- **Email:** *(khoizuronsyakira@gmail.com)*
